@@ -8,6 +8,30 @@
       ],
       "uploadDate": "2026-09-01T00:00:00.000Z",
       "fileSize": "0"
+    },
+    {
+      "title": "GTA 5",
+      "uris": [
+        "https://raw.githubusercontent.com/Mxrlxn019/json-download/main/gta5.zip"
+      ],
+      "uploadDate": "2026-09-01T00:00:00.000Z",
+      "fileSize": "0"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "uris": [
+        "https://raw.githubusercontent.com/Mxrlxn019/json-download/main/rdr2.zip"
+      ],
+      "uploadDate": "2026-09-01T00:00:00.000Z",
+      "fileSize": "0"
+    },
+    {
+      "title": "How to Fish",
+      "uris": [
+        "https://raw.githubusercontent.com/Mxrlxn019/json-download/main/how%20to%20fish.zip"
+      ],
+      "uploadDate": "2026-09-01T00:00:00.000Z",
+      "fileSize": "0"
     }
   ]
 }
