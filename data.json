@@ -2,12 +2,12 @@
   "name": "Meine Quelle",
   "downloads": [
     {
-      "title": "Meine Testdatei",
+      "title": "Schedule 1",
       "uris": [
-        "https://example.com/test.zip"
+        "https://raw.githubusercontent.com/Mxrlxn019/json-download/main/schedule%201.zip"
       ],
       "uploadDate": "2026-09-01T00:00:00.000Z",
-      "fileSize": "10 MB"
+      "fileSize": "0"
     }
   ]
 }
